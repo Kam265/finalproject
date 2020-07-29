@@ -1,0 +1,247 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:ital@1&family=Ranchers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Bebas+Neue&family=Courgette&family=Fredoka+One&family=Rancho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+/*
+font-family: 'Asap Condensed', sans-serif;
+font-family: 'Ranchers', cursive; 
+font-family: 'Press Start 2P', cursive;
+font-family: 'Francois One', sans-serif;
+*/
+
+.weblogo{
+    color:powderblue;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.footer{
+    color: powderblue;
+    font-family: 'Architects Daughter', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.corouselfont{
+    font-family: 'Francois One', sans-serif;
+    font-size: 150px;
+    color: white;
+    text-align: center;
+}
+
+.homelogo{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 100px;
+    color: powderblue;
+}
+
+header{
+    background: white;
+}
+
+header::after{
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.logo{
+    float: left;
+    font-family: 'Press Start 2P', cursive;
+    border-style: solid;
+    border: black;
+}
+
+.contents{
+    float: right;
+}
+
+body{
+    background-color: black;
+    padding: 20px;
+}
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+    color: powderblue;
+    text-align: center;
+    
+}
+
+.openingimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.context h3{
+    color: white;
+    font-family: 'Asap Condensed', sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: teal;
+    padding: 20px;
+}
+
+.narutoimage{
+    float: left;
+    padding-top: 40px;
+}
+
+.anime1{
+    color: white;
+    font-family: 'Asap Condensed', sans-serif;
+    text-align: left;
+    padding-top: 40px;
+
+}
+
+.anime1 h1{
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    color: teal;
+
+}
+
+.anime1 .p .br{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: teal;
+    font-family: 'Press Start 2P', cursive;
+    padding-bottom: 25px;
+}
+
+.madaracontext h3{
+    color:white;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+
+.madaracontext p{
+    color: white;
+    font-family: 'Asap Condensed', sans-serif;
+    text-align: center;
+}
+
+.madaravs iframe{
+    float: center;
+}
+
+.paincontext h3{
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+
+.paincontext p{
+    color: white;
+    font-family: 'Asap Condensed', sans-serif;
+    text-align: center;
+}
+
+.painvs iframe{
+    float: center;
+}
+
+.sasukecontext h3{
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+
+.sasukecontext p{
+    color: white;
+    font-family: 'Asap Condensed', sans-serif;
+    text-align: center;  
+}
+
+.sasukevs iframe{
+    float: center;
+}
+
+.anime2{
+    color: white;
+    font-family: 'Asap Condensed', sans-serif;
+    text-align: left;
+    padding-top: 40px;
+}
+
+.anime2 h1{
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    color: teal;
+
+}
+
+.assassinationimage{
+    float: left;
+    padding-top: 40px
+}
+
+.assassinationcontext h3{
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+
+.assassinationcontext p{
+    color: white;
+    font-family: 'Asap Condensed', sans-serif;
+    text-align: center;  
+}
+
+.assassinationvs iframe{
+    float: center;
+}
+
+.AOTimage{
+    float: left;
+    padding-top: 40px; 
+}
+
+.anime3 {
+    color: white;
+    font-family: 'Asap Condensed', sans-serif;
+    text-align: left;
+    padding-top: 40px;
+}
+
+.anime3 h1{
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    color: teal;
+}
+
+.levicontext h3{
+    color:white;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+
+.levicontext p{
+    color: white;
+    font-family: 'Asap Condensed', sans-serif;
+    text-align: center; 
+}
+
+class{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h5{
+    color: white;
+    font-family: 'Asap Condensed', sans-serif; 
+}
+
+.line{
+    color: white
+}

@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+/*font-family: 'Francois One', sans-serif;*/
+
+body{
+background-color: black;
+}
+
+.footer{
+    color: powderblue;
+    font-family: 'Architects Daughter', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+/* The alert message box */
+.alert {
+    padding: 20px;
+    background-color: red; 
+    color: white;
+    margin-bottom: 15px;
+    font-family: 'Piedra', cursive;
+  }
+
+  .weblogo{
+    color:powderblue;
+    font-family: 'Architects Daughter', cursive;
+}
+  
+  /* The close button */
+  .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 40px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  /* When moving the mouse over the close button */
+  .closebtn:hover {
+    color: black;
+  }
+
+.Crime{
+    font-family: 'Nosifer', cursive;
+    font-size: 100px;
+    color: red;
+    text-align: center;
+
+}
+hr.one {
+border-top: 5px solid red;
+  border-radius: 10px;
+  
+}
+
+
+hr.two{
+    border-top: 5px solid red;
+    border-radius: 10px;
+}
+#FirstBaby{
+    color: whitesmoke;
+    font-family: 'Piedra', cursive;
+    font-size: 50px;
+    
+
+}
+
+
+
+
+.centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+
+    
+}
+
+#Breaking{
+    float: left;
+    width: 400px;
+    height: 400px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    
+}
+.FirstShow{
+    font-family: 'Piedra', cursive;
+    color: yellow;
+    font-weight: bold;
+    font-size: 70px;
+
+}
+.SecondBaby{
+    font-family: 'Special Elite', cursive;
+    color: white;
+    font-size: 20px;
+    line-height: 30x;
+}
+
+.SecondBaby:hover{
+    color: red;
+}
+
+#HTGAWM{
+    Float: right; 
+    width: 400px;
+    height: 400px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.ThirdBaby {
+    font-family: 'Special Elite', cursive;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.SecondShow{
+    font-family: 'Piedra', cursive;
+    color: yellow; 
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.ThirdBaby:hover{
+    color: red;
+}
+
+#BR{
+    float: left;
+    width: 400px;
+    height: 400px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.ThirdShow{
+    font-family: 'Piedra', cursive;
+    color: yellow;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.FourthBaby{
+    font-family: 'Special Elite', cursive;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.FourthBaby:hover{
+    color: red
+}
+
+.tip{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Nosifer', cursive;
+    color: red;
+}
+
+.footer{
+    font-family: 'Francois One', sans-serif;
+    font-size: 45px;
+    }

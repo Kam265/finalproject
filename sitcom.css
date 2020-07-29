@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+.intro  {
+    background-image: url("Images/new york city.jpg");
+    height:350px;
+    background-repeat: no-repeat ; 
+    background-size: cover ;
+    margin: 0px;
+    padding:0px;
+    border-bottom: 0px;
+
+}
+.weblogo{
+  color:powderblue;
+  font-family: 'Architects Daughter', cursive;
+}
+.footer{
+  color: powderblue;
+  font-family: 'Architects Daughter', cursive;
+  text-align: center;
+  font-size: 50px;
+}
+
+.intro-text {
+  background-color: rgb(0,0,0); 
+  background-color: rgb(255,255,255,0.4); 
+  color:black;
+  font-weight: bold;
+  border: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -160%);
+  width: 100%;
+  z-index: 2;
+  padding: 10px;
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  align-content:wrap;
+background-attachment:scroll;
+  
+}
+
+.intro-title{
+  letter-spacing: 5px;
+  font-family: 'Boogaloo', cursive;
+  font-weight:bold;
+}
+
+.sitcom1  {
+  display: flex;
+  align-content:column;
+  text-align:left;
+  margin: 0px;
+    padding:0px;
+    border:0px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.sitcom-main {
+color: black;
+font-size: 16px;
+}
+
+.sitcom1-solo {
+  float: left;
+  width: 33.33%;
+  padding: 0px;
+}
+
+.sitcom1-images {
+  display: flex;
+  align-content:column;
+}
+.sitcom2   {
+  display: flex;
+  align-content:column;
+  margin: 0px;
+    padding:0px;
+    border-bottom: 0px;
+    font-family: 'Source Code Pro', monospace;
+}
+.red{
+  color:red;
+}
+.sitcom3  {
+  display: flex;
+  align-content:column;
+  margin: 0px;
+    padding:0px;
+    border: 0px;
+    font-family: 'Source Code Pro', monospace;
+}
+h2 {
+  background-color: lightblue;
+  font-family: 'Source Code Pro', monospace;
+  font-weight:bold;
+
+}
+
+h3 {
+  background-color: palevioletred;
+  font-size: 30px;
+  font-family: 'Source Code Pro', monospace;
+  color:white;
+  letter-spacing: 5px;
+  text-align:center;
+}
+
+.body-extra{
+  background-color: rgb(241, 168, 241);
+}
+
+.extra{
+  font-family: 'Boogaloo', cursive;
+font-family: 'Permanent Marker', cursive;
+margin:0px;
+background-color:rgb(253, 206, 165);
+}
